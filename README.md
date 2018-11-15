@@ -5,3 +5,12 @@ This series of write-up's are aimed to show my methodology and steps I use when 
 There are a ton of write-up's out there already, but documenting these is a crucial step in my learning process as it forces me to iterate through it all one more time. 
 
 "Repetitio est mater studiorum" - Repetition is the mother of all learning.
+
++ [Blue](https://github.com/Bengman/Hackthebox-writeups/blob/master/blue.md)
++ [Celestial](https://github.com/Bengman/Hackthebox-writeups/blob/master/celestial.md)
++ [Dev0ops](https://github.com/Bengman/Hackthebox-writeups/blob/master/dev0ops.md)
++ [Mirai](https://github.com/Bengman/Hackthebox-writeups/blob/master/mirai.md)
++ [Nibbles](https://github.com/Bengman/Hackthebox-writeups/blob/master/nibbles.md)
++ [Popcorn](https://github.com/Bengman/Hackthebox-writeups/blob/master/popcorn.md)
++ [Shocker](https://github.com/Bengman/Hackthebox-writeups/blob/master/shocker.md)
+
