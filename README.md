@@ -13,4 +13,4 @@ There are a ton of write-up's out there already, but documenting these is a cruc
 + [Nibbles](https://github.com/Bengman/Hackthebox-writeups/blob/master/nibbles.md)
 + [Popcorn](https://github.com/Bengman/Hackthebox-writeups/blob/master/popcorn.md)
 + [Shocker](https://github.com/Bengman/Hackthebox-writeups/blob/master/shocker.md)
-
++ [Bounty](https://github.com/Bengman/Hackthebox-writeups/blob/master/bounty.md)
