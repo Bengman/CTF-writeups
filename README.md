@@ -14,3 +14,4 @@ There are a ton of write-up's out there already, but documenting these is a cruc
 + [Popcorn](https://github.com/Bengman/Hackthebox-writeups/blob/master/popcorn.md)
 + [Shocker](https://github.com/Bengman/Hackthebox-writeups/blob/master/shocker.md)
 + [Bounty](https://github.com/Bengman/Hackthebox-writeups/blob/master/bounty.md)
++ [Optimum](https://github.com/Bengman/Hackthebox-writeups/blob/master/optimum.md)
