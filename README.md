@@ -11,6 +11,7 @@ There are a ton of write-up's out there already, but documenting these is a cruc
 + [Celestial](https://github.com/Bengman/Hackthebox-writeups/blob/master/celestial.md)
 + [Dev0ops](https://github.com/Bengman/Hackthebox-writeups/blob/master/dev0ops.md)
 + [Jerry](https://github.com/Bengman/Hackthebox-writeups/blob/master/jerry.md)
++ [Lame](https://github.com/Bengman/Hackthebox-writeups/blob/master/lame.md)
 + [Legacy](https://github.com/Bengman/Hackthebox-writeups/blob/master/legacy.md)
 + [Mirai](https://github.com/Bengman/Hackthebox-writeups/blob/master/mirai.md)
 + [Nibbles](https://github.com/Bengman/Hackthebox-writeups/blob/master/nibbles.md)
