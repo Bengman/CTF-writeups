@@ -6,6 +6,7 @@ There are a ton of write-up's out there already, but documenting these is a cruc
 
 "Repetitio est mater studiorum" - Repetition is the mother of all learning.
 
++ [Beep](https://github.com/Bengman/Hackthebox-writeups/blob/master/beep.md)
 + [Blue](https://github.com/Bengman/Hackthebox-writeups/blob/master/blue.md)
 + [Bounty](https://github.com/Bengman/Hackthebox-writeups/blob/master/bounty.md)
 + [Celestial](https://github.com/Bengman/Hackthebox-writeups/blob/master/celestial.md)
