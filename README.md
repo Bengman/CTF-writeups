@@ -20,6 +20,7 @@ There are a ton of write-up's out there already, but documenting these is a cruc
 + [Mirai](https://github.com/Bengman/Hackthebox-writeups/blob/master/mirai.md)
 + [Nibbles](https://github.com/Bengman/Hackthebox-writeups/blob/master/nibbles.md)
 + [Optimum](https://github.com/Bengman/Hackthebox-writeups/blob/master/optimum.md)
++ [Poison](https://github.com/Bengman/Hackthebox-writeups/blob/master/poison.md)
 + [Popcorn](https://github.com/Bengman/Hackthebox-writeups/blob/master/popcorn.md)
 + [Sense](https://github.com/Bengman/Hackthebox-writeups/blob/master/sense.md)
 + [Shocker](https://github.com/Bengman/Hackthebox-writeups/blob/master/shocker.md)
