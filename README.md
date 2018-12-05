@@ -30,3 +30,5 @@ There are a ton of write-up's out there already, but documenting these is a cruc
 + [Shocker](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/shocker.md)
 
 ## Vulnhub
+
++ [Brainpan](https://github.com/Bengman/CTF-writeups/blob/master/Vulnhub/brainpan_bof_exploit.py)
