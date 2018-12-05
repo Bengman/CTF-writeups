@@ -14,7 +14,7 @@ There are a ton of write-up's out there already, but documenting these is a cruc
 + [Bashed](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/bashed.md)
 + [Beep](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/beep.md)
 + [Blue](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/blue.md)
-+ [Bounty](hhttps://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/bounty.md)
++ [Bounty](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/bounty.md)
 + [Celestial](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/celestial.md)
 + [Dev0ops](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/dev0ops.md)
 + [Grandpa](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/grandpa.md)
