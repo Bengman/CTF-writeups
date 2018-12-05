@@ -28,6 +28,7 @@ There are a ton of write-up's out there already, but documenting these is a cruc
 + [Popcorn](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/popcorn.md)
 + [Sense](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/sense.md)
 + [Shocker](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/shocker.md)
++ [Valentine](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/valentine.md)
 
 ## Vulnhub
 
