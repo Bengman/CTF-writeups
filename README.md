@@ -9,9 +9,9 @@ There are a ton of write-up's out there already, but documenting these is a cruc
 ## Binary Exploitation & Reversing
 
 + [Reversing and Exploiting Protostar Stack challenges](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/Protostar/Protostar_stack.md)
-+ [Vulnserver Buffer overflow](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/vulnserver/vulnserver_trun_bof.py)
-+ [Vulnserver SEH egghunter](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/vulnserver/vulnserver_egghunter.py)
-+ [Vulnserver SEH overflow](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/vulnserver/vulnserver_seh_overwrite.py)
++ [Vulnserver "TRUN" command Buffer Overflow](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/vulnserver/vulnserver_trun_bof.py)
++ [Vulnserver "KSTET" command SEH egghunter](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/vulnserver/vulnserver_egghunter.py)
++ [Vulnserver "GMON" commnd SEH overflow](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/vulnserver/vulnserver_seh_overwrite.py)
 
 
 ## Hackthebox.eu
