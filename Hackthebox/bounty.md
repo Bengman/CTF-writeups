@@ -283,7 +283,7 @@ So now we have an active Empire agent running on the victim.
 
 ## Privilege Escalation
 
-A good way to start the privesc is to use some enumeration scripts/modules. For Windows I usually use the followin:
+A good way to start the privesc is to use some enumeration scripts/modules. For Windows I usually use the following:
 
 - Powerup
 - Sherlock.ps1
