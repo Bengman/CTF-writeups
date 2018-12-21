@@ -16,25 +16,27 @@ There are a ton of write-up's out there already, but documenting these is a cruc
 
 ## Hackthebox.eu
 
-+ [Bank](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/bank.md)
-+ [Bashed](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/bashed.md)
-+ [Beep](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/beep.md)
-+ [Blue](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/blue.md)
-+ [Bounty](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/bounty.md)
-+ [Celestial](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/celestial.md)
-+ [Dev0ops](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/dev0ops.md)
-+ [Grandpa](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/grandpa.md)
-+ [Jerry](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/jerry.md)
-+ [Lame](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/lame.md)
-+ [Legacy](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/legacy.md)
-+ [Mirai](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/mirai.md)
-+ [Nibbles](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/nibbles.md)
-+ [Optimum](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/optimum.md)
-+ [Poison](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/poison.md)
-+ [Popcorn](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/popcorn.md)
-+ [Sense](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/sense.md)
-+ [Shocker](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/shocker.md)
-+ [Valentine](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/valentine.md)
+| Box            | keyword          
+| ------------- |:-------------:|
+| [Bank](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/bank.md) | #File upload bypass, #suid, #File permissions |
+| [Bashed](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/bashed.md) | #sudo misconfig |
+| [Beep](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/beep.md) | #sip, #lfi, #Elastix RCE |
+| [Blue](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/blue.md) | #Eternal Blue |
+| [Bounty](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/bounty.md) | #iis, #MS10-092 |
+| [Celestial](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/celestial.md) | #Node js, #cron |
+| [Dev0ops](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/dev0ops.md) | #xxe, #Git |
+| [Grandpa](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/grandpa.md) | #ExplodingCan, #MS14-070 |
+| [Jerry](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/jerry.md) | #Tomcat |
+| [Lame](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/lame.md) | #Samba, #distcc, #suid |
+| [Legacy](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/legacy.md) | #MS08-067 |
+| [Mirai](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/mirai.md) | #Pi, #sudo |
+| [Nibbles](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/nibbles.md) | #nibbleblog, #sudo |
+| [Optimum](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/optimum.md) | #rejetto, #MS16-032 |
+| [Poison](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/poison.md) | #lfi, #Log poisoning, #phpinfo, #vnc |
+| [Popcorn](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/popcorn.md) | #lfi, #pam |
+| [Sense](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/sense.md) | #pfsense |
+| [Shocker](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/shocker.md) | #shellshock |
+| [Valentine](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/valentine.md) | #heartbleed, #tmux |
 
 ## Vulnhub
 
