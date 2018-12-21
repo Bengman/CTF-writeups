@@ -18,6 +18,7 @@ There are a ton of write-up's out there already, but documenting these is a cruc
 
 | Box            | keyword          
 | ------------- |:-------------:|
+| [Active](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/active.md) | #GPP Passwords, #Kerberoast |
 | [Bank](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/bank.md) | #File upload bypass, #suid, #File permissions |
 | [Bashed](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/bashed.md) | #sudo misconfig |
 | [Beep](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/beep.md) | #sip, #lfi, #Elastix RCE |
