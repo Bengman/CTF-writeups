@@ -26,6 +26,7 @@ There are a ton of write-up's out there already, but documenting these is a cruc
 | [Bounty](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/bounty.md) | #iis, #MS10-092 |
 | [Celestial](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/celestial.md) | #Node js, #cron |
 | [Dev0ops](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/dev0ops.md) | #xxe, #Git |
+| [Devel](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/devel.md) | #ftp, MS14-058 |
 | [Grandpa](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/grandpa.md) | #ExplodingCan, #MS14-070 |
 | [Jerry](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/jerry.md) | #Tomcat |
 | [Lame](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/lame.md) | #Samba, #distcc, #suid |
