@@ -23,7 +23,7 @@ There are a ton of write-up's out there already, but documenting these is a cruc
 | [Bashed](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/bashed.md) | #sudo misconfig |
 | [Beep](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/beep.md) | #sip, #lfi, #Elastix RCE |
 | [Blue](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/blue.md) | #Eternal Blue |
-| [Bounty](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/bounty.md) | #iis, #MS10-092 |
+| [Bounty](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/bounty.md) | #iis, #Empire, #MS10-092 |
 | [Celestial](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/celestial.md) | #Node js, #cron |
 | [Dev0ops](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/dev0ops.md) | #xxe, #Git |
 | [Devel](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/devel.md) | #ftp, MS14-058 |
