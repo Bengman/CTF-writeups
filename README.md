@@ -21,6 +21,7 @@ There are a ton of write-up's out there already, but documenting these is a cruc
 | [Active](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/active.md) | #GPP Passwords, #Kerberoast |
 | [Bank](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/bank.md) | #File upload bypass, #suid, #File permissions |
 | [Bashed](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/bashed.md) | #sudo misconfig |
+| [Bastard](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/bastard.md) | #Drupal, #Empire, #sherlock, MS15-051 |
 | [Beep](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/beep.md) | #sip, #lfi, #Elastix RCE |
 | [Blue](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/blue.md) | #Eternal Blue |
 | [Bounty](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/bounty.md) | #iis, #Empire, #MS10-092 |
