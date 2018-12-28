@@ -4,10 +4,8 @@ Before we start I always reset the box, it is often that services have crashed o
 
 ### Attack Summary
 
-1.
-2. 
-3.
-4.
+1. Hardcoded password
+2. Overly permissive Sudo configuration
 
 
 ## Recon
