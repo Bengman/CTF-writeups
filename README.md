@@ -42,6 +42,7 @@ There are a ton of write-up's out there already, but documenting these is a cruc
 | [Popcorn](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/popcorn.md) | #lfi, #pam |
 | [Sense](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/sense.md) | #pfsense |
 | [Shocker](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/shocker.md) | #shellshock |
+| [Tenten](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/tenten.md) | #wordpress, #stego, #sudo |
 | [Valentine](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/valentine.md) | #heartbleed, #tmux |
 
 ## Vulnhub
