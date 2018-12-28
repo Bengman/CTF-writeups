@@ -21,7 +21,7 @@ There are a ton of write-up's out there already, but documenting these is a cruc
 | Completed Box            | Exploiting          
 | ------------- |:-------------:|
 | [Active](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/active.md) | #GPP Passwords, #Kerberoast |
-| [Bank](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/bank.md) | #File upload bypass, #suid, #File permissions |
+| [Bank](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/bank.md) | #File upload bypass, #dns, #suid, #File permissions |
 | [Bashed](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/bashed.md) | #sudo misconfig |
 | [Bastard](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/bastard.md) | #Drupal, #Empire, #sherlock, #MS15-051 |
 | [Beep](https://github.com/Bengman/CTF-writeups/blob/master/Hackthebox/beep.md) | #sip, #lfi, #Elastix RCE |
