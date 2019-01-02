@@ -8,12 +8,17 @@ There are a ton of write-up's out there already, but documenting these is a cruc
 
 ## Binary Exploitation & Reversing
 
-| Challenge            | Exploit          
+### Write ups
+
++ [Reversing and Exploiting Protostar Stack challenges](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/Protostar_stack.md)
+
+### Exploits
+
+| Exploit            | Vulnerability      
 | ------------- |:-------------:|
-| [Reversing and Exploiting Protostar Stack challenges](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/Protostar/Protostar_stack.md) | #Stack Buffer Overflow |
-| [Vulnserver "TRUN" command](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/vulnserver/vulnserver_trun_bof.py) | #Stack Buffer Overflow |
-| [Vulnserver "KSTET" command](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/vulnserver/vulnserver_egghunter.py) | #SEH Overflow, #Egghunter | 
-| [Vulnserver "GMON" command](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/vulnserver/vulnserver_seh_overwrite.py) | #SEH Overflow |
+| [Vulnserver "TRUN" command](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/exploits/vulnserver_trun_bof.py) | #Stack Buffer Overflow |
+| [Vulnserver "KSTET" command](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/exploits/vulnserver_egghunter.py) | #SEH Overflow, #Egghunter | 
+| [Vulnserver "GMON" command](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/exploits/vulnserver_seh_overwrite.py) | #SEH Overflow |
 
 
 ## Hackthebox.eu
