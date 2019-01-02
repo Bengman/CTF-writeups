@@ -11,11 +11,11 @@ There are a ton of write-up's out there already, but documenting these is a cruc
 ### Write ups
 
 + [Reversing and Exploiting Protostar Stack challenges](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/Protostar_stack.md)
-+ [Exploit development Resources](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/exploit_dev_resources.md)
++ [Exploit Development Resources](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/exploit_dev_resources.md)
 
 ### Exploits
 
-| Exploit            | Vulnerability      
+| Exploits            | Vulnerability      
 | ------------- |:-------------:|
 | [Vulnserver "TRUN" command](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/exploits/vulnserver_trun_bof.py) | #Stack Buffer Overflow |
 | [Vulnserver "KSTET" command](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/exploits/vulnserver_egghunter.py) | #SEH Overflow, #Egghunter | 
