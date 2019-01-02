@@ -11,6 +11,7 @@ There are a ton of write-up's out there already, but documenting these is a cruc
 ### Write ups
 
 + [Reversing and Exploiting Protostar Stack challenges](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/Protostar_stack.md)
++ [Exploit development Resources](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/exploit_dev_resources.md)
 
 ### Exploits
 
