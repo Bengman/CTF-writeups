@@ -8,7 +8,7 @@ There are a ton of write-up's out there already, but documenting these is a cruc
 
 ## Binary Exploitation & Reversing
 
-+ [PicoCTF 2018 - got-2-learn-libc (Stack Buffer Overflow)]()
++ [PicoCTF 2018 - got-2-learn-libc (Stack Buffer Overflow)](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/picoctf_got-2-learn-libc.md)
 + [Overthewire - narnia1 (Stack Buffer Overflow)](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/exploits/narnia1_remote.py)
 + [Overthewire - narnia0 (Stack Buffer Overflow)](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/exploits/narnia0_remote.py)
 + [Vulnserver "TRUN" command buffer overflow](https://github.com/Bengman/CTF-writeups/blob/master/Binary_exploits/exploits/vulnserver_trun_bof.py) 
